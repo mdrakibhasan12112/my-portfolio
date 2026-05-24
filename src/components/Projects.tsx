@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { ExternalLink, GitHub, CheckCircle2 } from 'lucide-react';
+import { ExternalLink, CheckCircle2 } from 'lucide-react';
 import { FaGithub } from 'react-icons/fa';
 
 const Projects = () => {
