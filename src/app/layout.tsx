@@ -20,7 +20,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: 'Rakib | Portfolio',
   description:
-    'A Professional Front-End Developer specializing in high-performance web applications.',
+    'A Professional Mern-Stack Developer specializing in high-performance web applications.',
 };
 
 export default function RootLayout({
@@ -35,7 +35,7 @@ export default function RootLayout({
       suppressHydrationWarning
     >
       <head>
-        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        <link rel="icon" type="image/svg+xml" href="/favicon(1).svg" />
         <link
           href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap"
           rel="stylesheet"
